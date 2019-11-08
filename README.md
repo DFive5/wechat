@@ -2,7 +2,7 @@
 
 - 基于vue + vuex + vue-router + vue-axios + ES6 开发的仿微信APP 
 
-- 项目演示地址: [微信APP](http://106.15.237.176:4001)
+- 项目演示地址: [微信APP](http://101.132.155.236:4001)
 
 ```bash
 # install dependencies
